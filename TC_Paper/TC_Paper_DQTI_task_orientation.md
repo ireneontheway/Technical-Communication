@@ -1,18 +1,21 @@
-# Developing Quality Technical Information 
+# Developing Quality Technical Information
 
 在前一期文章中已经介绍了本书的主要框架：
 
-### Easy to use
+## Easy to use
 
 - task orientation
 - accuracy
 - completeness
 
-### Easy to understand
+## Easy to understand
+
 - clarify
 - concreteness
 - style
-### Easy to find
+
+## Easy to find
+
 - organization
 - retrievability
 - visual effectiveness
@@ -25,36 +28,36 @@ task orientation 指的是写作时注重指导用户如何完成任务。我们
 
 将高层次任务分解成低层次任务。例如将启动产品改成安装并设置产品。就像这样把问题结构成更低层次的任务，让用户一看就懂。任务型写作把用户拉回到任务上，就如同旅行中的指针为游人指明方向。为了做到这一点，写作时需要遵循以下规范：
 
-> 1. Write for the intended audience
+> 1.Write for the intended audience
 >
-> 2. Present information from the user’s point of view
+> 2.Present information from the user’s point of view
 >
-> 3. Indicate a practical reason for information 
+> 3.Indicate a practical reason for information
 >
 > - Relate details to a task where appropriate
 >
 > - Provide only a necessary amount of conceptual information in task topics
 >
-> 4. Focus on real tasks, not product functions 
+> 4.Focus on real tasks, not product functions
 >
-> 5. Use headings that reveal the tasks 
+> 5.Use headings that reveal the tasks
 >
-> 6. Divide tasks into discrete subtasks 
+> 6.Divide tasks into discrete subtasks
 >
-> 7. Provide clear, step-by-step instructions 
+> 7.Provide clear, step-by-step instructions
 >
 > - Make each step a clear action for users to take.
 >
-> - Group steps for usability 
+> - Group steps for usability
 >
-> - Clearly identify optional steps 
+> - Clearly identify optional steps
 >
 > - Identify criteria at the beginning of conditional steps
 >
 
 接下来我就一一介绍七条规范。
 
-### 1.Write for the intended audience 为目标读者写作 
+### 1.Write for the intended audience 为目标读者写作
 
 写作前要明确目标读者，如果是为管理者写作，写作只应该囊括高层次任务，例如评价和计划。如果是为终端用户，就要避免写系统性管理任务。要确定写的是用户关心的问题，写作的信息详细程度取决于用户的类型。
 
@@ -96,38 +99,3 @@ TW具有信息优势，写作时可以预见读者在哪一步骤需要帮助，
 不要混淆大量 conceptual 信息与 task 信息。用户只想知道怎么解决这一步操作而不想知道有关的知识。 task topic 中，尽早解释步骤，简述相关概念。
 
 今天就先介绍这三点，下一期文章会继续阐释后面的四条写作规范。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -2,7 +2,7 @@
 
 今天继续讲一讲 task orientation 的写作规范的其他内容。
 
- ## 4. Focus on real tasks, not product functions 
+## 4. Focus on real tasks, not product functions
 
 首先是区分 real task（用户任务） 和 artificial task（产品任务），在技术写作过程中会逐渐忘记用户真正需要的任务而着重于产品中不必要的任务上。
 
@@ -10,7 +10,7 @@
 
 从用户执行角度编辑信息，拉近信息与用户的距离。同时要注意不要加入任务以外的信息这样会转移用户的注意力。
 
-## 5. Use headings that reveal the tasks 
+## 5. Use headings that reveal the tasks
 
 标题的作用是告知用户为什么需要这个信息。topic的标题应该能够准确传达大致内容信息。避免使用假标题（pseudo-task），此类标题会误导用户：
 
@@ -47,11 +47,11 @@
 
   一个完整的步骤包含操作指示。例如：
 
-  > 3. Click **OK**. 
+  > 3.Click **OK**.
   >
-  > 4. The installation begins.
+  > 4.The installation begins.
   >
-  > 5. After installation completes, restart your system.
+  > 5.After installation completes, restart your system.
 
 此里中 3 与 4 可以合并，这是因为 4 是 3 的结果。为保证每一步骤都有明确指示，建议在句首使用祈使动词（如“Type the date in the first column of the table.” ）或者先定位用户（如“In the first column of the table, type the date.“）
 
@@ -61,7 +61,7 @@
 
   > To add a setting to your profile:
   >
-  > 1. Determine the name of the profile file that you want to add the setting to:
+  > 1.Determine the name of the profile file that you want to add the setting to:
   >
   > a. Right-click the profile object that you want and select **Properties** from
   >
@@ -69,7 +69,7 @@
   >
   > b. In the Properties window, find the name and path of the profile file.
   >
-  > 2. Update the profile file with the new setting:
+  > 2.Update the profile file with the new setting:
   >
   > a. Open your profile file in a text editor.
   >
@@ -77,7 +77,7 @@
   >
   > c. Save the profile file.
   >
-  > 3. Run the profile command with the -file *YourProfileName* option.
+  > 3.Run the profile command with the -file *YourProfileName* option.
 
   以上例句就是一个很好的分组案例，向用户表明步骤间的逻辑关系，表明了每个步骤对整体任务的作用，也能简化操作步骤。无序列表为用户提供同时可选的项目。
 
@@ -89,203 +89,6 @@
 
   条件步骤是在特定准则下用户才能遵循的，因此一般以 “If,” as in, “If you run test cases in batch mode, complete the fields on the Batch page.”开头。指明这一点，让不需要的用户直接跳过。用户一般不会提前阅读接下去的步骤，因此要在一开始就指明接下来提供哪些信息作用于哪些场景。
 
-  
-
 以上就是 Task orientation 的主要内容， DQTI 这本书还在章节末整理了主要的写作规范供各位参考：
 
 ![img](https://github.com/ireneontheway/Technical_Communication/blob/master/Picture/DQTI_Task_Orientation.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

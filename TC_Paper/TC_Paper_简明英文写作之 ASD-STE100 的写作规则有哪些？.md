@@ -1,6 +1,6 @@
-# 简明英文写作之 ASD-STE100 的写作规则有哪些？
+# 简明英文写作之 ASD-STE100 的写作规则有哪些
 
-> Rules for Writers:------ George Orwell 
+> Rules for Writers:------ George Orwell
 >
 > 1. Never use a metaphor, simile, or other figure of speech which you are used to seeing in print.
 > 2. Never use a long word where a short one will do.
@@ -125,7 +125,6 @@ STE包括：
   - 标题、标语
 - 用 "-" 连接的词语视为一个单词
   
-
 ## 9.Writing practices
 
 - 如果无法逐字对照，请转换表达方式
@@ -134,4 +133,4 @@ STE包括：
 - 统一选择的术语或表达
 - That 的使用： that 帮助读者理解整个句子的结构、避免模糊、帮助翻译，不可随意遗漏。
 - With 的使用：本规范对于 "with" 有三种意思。这是一个功能性单词表明联系、帮助或分析、办法或工具，恰当使用可以清晰表达。
-- 代词的使用：正确使用代词可以简化文章，但若出现语义不清请用具体单词替代。
+- 代词的使用：正确使用代词可以简化文章，但若出现语义不清请用具体单词替代

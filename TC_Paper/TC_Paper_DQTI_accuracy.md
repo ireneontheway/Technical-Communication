@@ -1,4 +1,4 @@
-# Accuracy: be sure you are right, then go ahead 
+# Accuracy: be sure you are right, then go ahead
 
 在"Docs in the Real World"一文中，Carolyn Snyder 和  Jared Spool 提出“信任破坏者”（trust-breakers）,这一概念强调了信息准确度的失误对用户信任的影响：
 
@@ -50,36 +50,3 @@ DQTI 一书给出了保证信息正确的相关写作准则：
 - 在网页表明日期和时间，让用户明确文档的发布时间。
 - 在网页上发布更新日程，让用户了解文档的更新时间。
 - 在网页中设置反馈渠道，让用户能及时反馈沟通。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

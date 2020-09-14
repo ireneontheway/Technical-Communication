@@ -1,3 +1,5 @@
+# Accuracy 准确性
+
 ## 同一项目信息保持一致
 
 准确性问题大多是因为同一项目中某部分更新了而别的部分没有更新。一个项目里多个不同版本的信息让用户搞不明白哪个信息是正确的。面对同一类信息需要重复使用时，可以使用“信息重用”保证信息的一致性。
@@ -13,7 +15,7 @@
 - 尽可能重用信息
 - 避免信息不一致
 
-### 尽可能重用信息：
+### 尽可能重用信息
 
 | 重用场景                                     | 重用方式                                              |
 | -------------------------------------------- | ----------------------------------------------------- |
@@ -52,7 +54,6 @@
   
     ![DQTI_Accuracy_languagetool](https://github.com/ireneontheway/Technical_Communication/blob/master/Picture/DQTI_Accuracy_languagetool.png)
 
-
 - 代码检测工具：
 
   - Code Spell Checker
@@ -64,7 +65,6 @@
   
     ![DQTI_Accuracy_Yicat](https://github.com/ireneontheway/Technical_Communication/blob/master/Picture/DQTI_Accuracy_Yicat.png)可以巧用专业计算机辅助翻译工具术语库的功能，建立属于自己的术语库，但要注意添加术语的准确性。
   
-
 ## 检查相关参考信息的准确性
 
 需要关注以下参考信息：
@@ -77,17 +77,8 @@
 
 ![DQTI_Accuracy_Linkcheck](https://github.com/ireneontheway/Technical_Communication/blob/master/Picture/DQTI_Accuracy_Linkcheck.png)
 
- # DQTI 之 Accuracy 总结
+## DQTI 之 Accuracy 总结
 
 保证文本准确性就是建立用户信任的基石。Accuracy 章节讲述了保证信息准确的几个要点：
 
 ![DQTI_Accuracy_sum](https://github.com/ireneontheway/Technical_Communication/blob/master/Picture/DQTI_Accuracy_sum.png)
-
-
-
-
-
-
-
-
-
