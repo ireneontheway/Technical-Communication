@@ -36,7 +36,7 @@
 
 但我们常常遇到的问题是，用户不尽相同。既不想让老用户看到老生常谈的介绍信息，又不想让新用户难以上手。
 
-![DQTI_Accuracy_Completeness_users](Picture/DQTI_Accuracy_Completeness_users.png)
+![DQTI_Accuracy_Completeness_users](https://github.com/ireneontheway/Technical_Communication/blob/master/Picture/DQTI_Accuracy_Completeness_users.png)
 
 因此需要区别对待，如果用户对文档熟悉程度不同，就需要想办法满足不同的信息需求了。以下是一些建议：
 
